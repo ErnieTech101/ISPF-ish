@@ -1,2 +1,2 @@
-#ISPF-'ish' Text Editor
+# ISPF-'ish' Text Editor
 Here's quick and
